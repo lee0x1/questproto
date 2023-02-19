@@ -1,0 +1,3 @@
+[submodule "external/termjs"]
+	path = external/termjs
+	url = git@github.com:lee0x1/termjs.git
